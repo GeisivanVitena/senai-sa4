@@ -6,3 +6,6 @@ def index (request):
 
 def contato (request):
     return render(request, "page_app/partial/contato.html")
+
+def servicos (request):
+    return render(request, "page_app/partial/services.html")
