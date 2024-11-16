@@ -1,16 +1,16 @@
 # Projeto de Marketing - Empresa de Finanças
 
-Descrição: 
+## Descrição: 
 
 Este projeto é um site de marketing para uma empresa de finanças. O objetivo do site é exibir informações sobre os serviços e valores da empresa.
 
-Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 Back-end: Python, Django
 
 Front-end: HTML, CSS, JavaScript
 
-Funcionalidades:
+## Funcionalidades:
 
 Exibição de informações sobre a empresa.
 
